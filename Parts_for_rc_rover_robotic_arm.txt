@@ -1,0 +1,27 @@
+
+Required parts:
+
+1 X Arduino Mega
+1 X Arduino Uno
+2 X NRF24L01 Wireless Module
+2 X NRF24L01 Power Adapter
+2 X 37mm Reducer DC Motor
+1 X L298N Motor Driver (Green)
+4 X MG996R or MG995 Servo
+3 X MG90 Servo
+2 X Joystick Module
+2 X Potentiometer
+3 X Toggle Switch
+5 X 5mm LED and resistor
+1 X Mini Breadboard
+1 X LM2596 Step Down Voltage Regulator (Choosing a more powerful module might be a better option.)
+1 X 3S Li-po Battery (You can use different battery)
+2 X 18650 Li-ion Battery and 1 X Dual Battery Holder (You can use different battery)
+Various Jumper Cables
+
+4 X 608 Bearing: https://jlcmc.com/product/b/C15/BR836...
+2 X M8 60mm Bolt: https://jlcmc.com/product/s/E08/ESLG/...
+2 X Anti-loosening Nut: https://jlcmc.com/product/s/E04/EMLC/...
+M3x6mm Bolt: https://jlcmc.com/product/s/E08/ESLG/...
+M3x10mm Bolt: https://jlcmc.com/product/s/E08/ESLG/...
+M3x14m Bolt: https://jlcmc.com/product/s/E08/ESLG/...
